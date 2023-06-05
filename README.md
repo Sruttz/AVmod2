@@ -1,4 +1,9 @@
-# Starter Next/Hardhat Project
+# AVmod2
+
+
+In our project, we have combined our solidity smart contract with the frontend.   Our frontend has two buttons which finds the average of 5 numbers and divides it by 10. We also have our account address displayed on our frontend.
+
+## Usage
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +15,14 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+
+## Authors
+
+Sruthika Sivakumar
+
+@sruthikaaas@gmail.com
+
+## License
+
+This project is UNLICENSED
